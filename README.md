@@ -1,5 +1,5 @@
 # KIBO-RPC-2024
-## This is a sample KIBO RPC 2024 full run code from team Autopilot from USM.  
+## This is a sample KIBO RPC 2024 full run code from team Y3 Autopilot from USM.  
 
 Open "java/jp/jaxa/iss/kibo/rpc/fullrun" to view code files
 
